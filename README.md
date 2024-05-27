@@ -2,8 +2,7 @@
 
 Github repository of Signal-Syetsm Processing Semester Project in Matlab.
 
-## Collaboration with ECE-NTUA:
-Lab Partner : Zoe Genakos
+## Collaboration with ECE-NTUA
 
 # Overview
 This repository contains the lab projects conducted in relation to the course, using Matlab. 
